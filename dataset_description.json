@@ -4,14 +4,11 @@
     "Authors": [
         "Eric Earl",
         "Anders Perrone",
-        "Darrick Sturgeon",
-        "Kathy Snider",
-        "Anthony Galassi",
         "Damien A. Fair, Ph.D.",
-        "Hauke Bartsch, Ph.D.",
-        "Donald J. Hagler, Ph.D.",
-        "Feng Xue, Ph.D.",
-        "Octavio Ruiz, Ph.D."
+        "Kristina M. Rapuano",
+        "Monica D. Rosenberg",
+        "BJ Casey",
+        "Richard Watts"
     ],
     "Acknowledgements": "The Developmental Cognition and Neuroimaging (DCAN) Labs who developed the ABCD-BIDS MRI processing pipeline (DOI: 10.5281/zenodo.2587210; https://github.com/DCAN-Labs; Damien A. Fair, Ph.D., Eric Earl, Anders Perrone, Darrick Sturgeon, Kathy Snider, Anthony Galassi), and the many other ABCD Study researchers who helped acquire and prepare this data (full site listing here: https://abcdstudy.org/study-sites/).",
     "HowToAcknowledge": "Please cite the processing pipeline's DOI (10.5281/zenodo.2587210) and the References in ReferencesAndLinks below.",
