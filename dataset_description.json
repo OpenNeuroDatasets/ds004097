@@ -1,5 +1,5 @@
 {
-    "Name": "OHSU DCAN Labs ABCD-BIDS MRI processing pipeline inputs and derivatives",
+    "Name": " An open-access accelerated adult equivalent of the ABCD Study neuroimaging dataset (a-ABCD)",
     "BIDSVersion": "1.2.0",
     "Authors": [
         "Eric Earl",
@@ -36,5 +36,6 @@
         "Individual differences in functional brain connectivity predict temporal discounting preference in the transition to adolescence. Anandakumar J, Mills KL, Earl EA, Irwin L, Miranda-Dominguez O, Demeter DV, Walton-Weston A, Karalunas S, Nigg J, Fair DA. Dev Cogn Neurosci. 2018 Nov. doi: 10.1016/j.dcn.2018.07.003. Epub 2018 Jul 30. PMID: 30121543.",
         "Fair, Damien A; Miranda-Dominguez, Oscar; Snyder, Abraham Z; Perrone, Anders A; Earl, Eric A; Van, Andrew N; Koller, Jonathan M; Feczko, Eric; Klein, Rachel L; Mirro, Amy E. Correction of respiratory artifacts in MRI head motion estimates. bioRxiv. 2018.",
         "https://abcdstudy.org/publications/"
-    ]
+    ],
+    "License": "CC0"
 }
