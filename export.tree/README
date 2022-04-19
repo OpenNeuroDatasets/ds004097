@@ -1,0 +1,3 @@
+This data collection from Yale University's Fundamentals of the Adolescent Brain (FAB) Lab contains an accelerated adult equivalent of the ABCD Study(R) neuroimaging dataset. The Brain Imaging Data Structure (BIDS) directory includes 5 sessions for each of 7 participants, spaced approximately 1 week apart.
+
+BIDS input data were converted from DICOMs using Dcm2Bids (https://github.com/cbedetti/Dcm2Bids). BIDS derivatives data were derived from the OHSU DCAN Labs ABCD-BIDS MRI processing pipeline which outputs Human Connectome Project (HCP) Minimal Preprocessing Pipelines-style data in both volume and surface spaces (https://doi.org/10.5281/zenodo.2587210, https://doi.org/10.1016/j.neuroimage.2013.04.127). This collection is independent from ABCD Data Collection 2573.
